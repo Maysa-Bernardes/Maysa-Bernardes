@@ -7,7 +7,7 @@
 - 🏡 **Localização:** Franca, São Paulo  
 - 🎓 **Instituição de ensino:** Faculdade de Tecnologia de Franca “Dr. Thomaz Novelino”  
 - 💻 **Curso:** Análise e Desenvolvimento de Sistemas  
-- 📚 **Semestre atual:** 3º semestre
+- 📚 **Semestre atual:** 4º semestre
 - 🕓 **Turno:** noturno
 - 💼 **Experiências:** Estagiária no Programa de Bolsas DATA & AI da Compass.Uol | Estagiária - Auxiliar Eletrônica  
 - 🛠 **Conhecimentos:**  
@@ -33,7 +33,7 @@
 
 🔧 No último ano do ensino médio, iniciei o curso técnico de Eletroeletrônica no SENAI “Márcio Bagueira Leal". Apesar do foco maior em hardware, foi em uma disciplina de programação que descobri minha verdadeira paixão: o desenvolvimento de software. Gosto de criar soluções e resolver problemas — algo que ficou ainda mais claro durante meu estágio técnico.
 
-💻 Por me identificar profundamente com essa área, decidi cursar Análise e Desenvolvimento de Sistemas na Fatec Franca, onde atualmente estou no 3º semestre. Sigo em constante aprendizado, buscando evoluir tanto tecnicamente quanto como profissional.
+💻 Por me identificar profundamente com essa área, decidi cursar Análise e Desenvolvimento de Sistemas na Fatec Franca, onde atualmente estou no 4º semestre. Sigo em constante aprendizado, buscando evoluir tanto tecnicamente quanto como profissional.
 
 ## 🚀 Projetos
 
