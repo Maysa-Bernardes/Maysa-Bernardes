@@ -7,7 +7,7 @@
 - 🏡 **Localização:** Franca, São Paulo  
 - 🎓 **Instituição de ensino:** Faculdade de Tecnologia de Franca “Dr. Thomaz Novelino”  
 - 💻 **Curso:** Análise e Desenvolvimento de Sistemas  
-- 📚 **Semestre atual:** 4º semestre
+- 📚 **Semestre atual:** 5º semestre
 - 🕓 **Turno:** noturno
 - 💼 **Experiências:** Estagiária no Programa de Bolsas DATA & AI da Compass.Uol | Estagiária - Auxiliar Eletrônica  
 - 🛠 **Conhecimentos:**  
