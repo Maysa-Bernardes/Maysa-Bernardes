@@ -79,7 +79,7 @@ Anteriormente, participei do Programa de Bolsas DATA & AI da Compass.Uol, onde a
 <h2>⚡ Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maysa-Bernardes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maysa-Bernardes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_id=1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysa-Bernardes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
