@@ -70,6 +70,7 @@ Anteriormente, participei do Programa de Bolsas DATA & AI da Compass.Uol, onde a
 
 <h2>🚀 Projetos</h2>
 
+- 🤖 [**Automação Relatórios ForIP**](https://github.com/Maysa-Bernardes/automacao-relatorios-forip): Automação em Python para extração de relatórios do painel ForIP utilizando Selenium, PyAutoGUI e integração com n8n.
 - 📘 [**Trabalho-ED-Cadastro-Alunos**](https://github.com/Maysa-Bernardes/Trabalho-ED-Cadastro-Alunos): Projeto acadêmico em JavaScript focado em Estrutura de Dados.
 - 🔗 [**Ver todos os repositórios**](https://github.com/Maysa-Bernardes?tab=repositories)
 
@@ -79,8 +80,8 @@ Anteriormente, participei do Programa de Bolsas DATA & AI da Compass.Uol, onde a
 <h2>⚡ Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maysa-Bernardes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_id=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysa-Bernardes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maysa-Bernardes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas da Maysa"/>
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maysa-Bernardes&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens da Maysa"/>
 </div>
 
 <br>
