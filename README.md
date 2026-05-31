@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá,+eu+sou+a+Maysa!+👋;Estagiária+em+Automação+e+IA;Apaixonada+por+Tecnologia!;" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá,+eu+sou+a+Maysa!+👋;Estagiária+em+Infra+|+Cloud+|+DevOps;Apaixonada+por+Tecnologia!;" alt="Typing SVG"/>
   </a>
 
   <p align="center">
@@ -26,9 +26,14 @@
 
 <h2>👩‍💻 Sobre Mim</h2>
 
-Atualmente sou **Estagiária na Jardini Imóveis**, focada no desenvolvimento de soluções de **Automação e Inteligência Artificial**. Tenho uma trajetória que une o conhecimento de hardware (técnico em Eletroeletrônica pelo SENAI) com a paixão pelo desenvolvimento de software. 
+Atualmente sou **Estagiária na CHB**, atuando na intersecção entre **Infraestrutura, Cloud e DevOps**. Minha trajetória une uma base sólida em hardware (formação técnica em Eletroeletrônica pelo SENAI) com a paixão pelo desenvolvimento de software e automação. 
 
-Anteriormente, participei do Programa de Bolsas DATA & AI da Compass.Uol, onde aprofundei conhecimentos em ecossistemas de dados e nuvem.
+Anteriormente, atuei no desenvolvimento de automações e IA na Jardini Imóveis e participei do Programa de Bolsas DATA & AI da Compass.Uol, onde aprofundei meus conhecimentos em ecossistemas de dados e arquitetura em nuvem (AWS).
+
+🚀 **No momento, estou focada em:**
+* Administração de ambientes Cloud (AWS) e cultura DevOps.
+* Automação de processos com scripts (Python, Bash, PowerShell).
+* Desenvolvimento Full-Stack e integração de hardware/IoT.
 
 <br>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="filter: hue-rotate(300deg) brightness(0.8);"/>
