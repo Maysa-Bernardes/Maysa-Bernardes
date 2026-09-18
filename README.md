@@ -85,8 +85,10 @@ Anteriormente, atuei no desenvolvimento de automações e IA na Jardini Imóveis
 <h2>⚡ Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Maysa-Bernardes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas da Maysa"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysa-Bernardes&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens da Maysa"/>
+  <img height="190em" width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Maysa-Bernardes&langs_count=7&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img height="190em"  src="https://github-readme-stats-salesp07.vercel.app/api?username=Maysa-Bernardes&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img height="190em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Maysa-Bernardes&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
 </div>
 
 <br>
